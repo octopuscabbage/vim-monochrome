@@ -25,7 +25,7 @@ hi Folded guifg=DarkGray ctermfg=252 guibg=Black ctermbg=16 gui=NONE cterm=NONE 
 hi LineNr guifg=DarkGray ctermfg=252 guibg=Black ctermbg=16 gui=NONE cterm=NONE term=NONE
 hi Statement guifg=DarkGray ctermfg=252 guibg=Black ctermbg=16 gui=NONE cterm=NONE term=NONE
 hi PreProc guifg=DarkGray ctermfg=252 guibg=Black ctermbg=16 gui=NONE cterm=NONE term=NONE
-hi String ctermfg=18 guifg=#000087 guibg=Black ctermbg=16 gui=NONE cterm=NONE term=NONE
+hi String ctermfg=27 guifg=#000087 guibg=Black ctermbg=16 gui=NONE cterm=NONE term=NONE
 hi Comment guifg=#737373 ctermfg=243 guibg=Black ctermbg=16 gui=NONE cterm=NONE term=NONE
 hi Constant guifg=DarkGray ctermfg=252 guibg=Black ctermbg=16 gui=NONE cterm=NONE term=NONE
 hi Type guifg=DarkGray ctermfg=252 guibg=Black ctermbg=16 gui=NONE cterm=NONE term=NONE
